@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Kotlin, Android Development, Design Patterns**
 
-- 📫 How to reach me **frankcebeledike@gmail.com**
+- 📫 How to reach me **frankebeledike@gmail.com**
 
 - ⚡ Fun fact **I eat bugs**
 
