@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Frank C. Ebeledike</h1>
-<h3 align="center">A software engineer, passionate mobile app developer and an AI/ML enthusiast</h3>
+<h3 align="center">A software engineer with a keen interest in mobile app development and AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebel-frank&label=Profile%20views&color=0e75b6&style=flat" alt="ebel-frank" /> </p>
 
 - 🌱 I’m currently learning **Machine learning - Scikit_learn, Datastructure and Algorithms**
 
-- 💬 Ask me about **Java, Kotlin, Android Development, Design Patterns**
+- 💬 Ask me about **Java, Kotlin, Mobile App Development (Android/IOS), Design Patterns**
 
 - 📫 How to reach me **frankebeledike@gmail.com**
 
