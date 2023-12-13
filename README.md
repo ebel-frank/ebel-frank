@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Kotlin, Mobile App Development (Android/IOS), Design Patterns**
 
-- 📫 How to reach me **frankebeledike@gmail.com**
+- 📫 You can reach me at **frankebeledike@gmail.com**
 
 - ⚡ Fun fact **I eat bugs**
 
