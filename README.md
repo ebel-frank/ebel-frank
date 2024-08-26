@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frank C. Ebeledike</h1>
-<h3 align="center">A software engineer with a keen interest in mobile app development and AI/ML</h3>
+<h2 align="center"> A software engineer with a keen interest in <a href="https://github.com/ebel-frank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&vCenter=true&width=260&height=15&lines=Mobile+App+Development;AI+Research;Autonomous+Networks;Project+Management" alt="Typing SVG" /></a></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebel-frank&label=Profile%20views&color=0e75b6&style=flat" alt="ebel-frank" /> </p>
 
